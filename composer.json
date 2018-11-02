@@ -16,5 +16,12 @@
       "Pattern\\": "lib/Pattern"
     }
   },
-  "minimum-stability": "stable"
+  "minimum-stability": "stable",
+  "license": "BSD-2-Clause",
+  "keywords": [
+    "string",
+    "parse",
+    "placeholder",
+    "variable"
+  ]
 }
