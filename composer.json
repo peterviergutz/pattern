@@ -2,7 +2,7 @@
   "name": "peterviergutz/pattern",
   "description": "A simple library to parse placeholders in a string to array of named values",
   "type": "library",
-  "require": {
+  "require-dev": {
     "phpunit/phpunit": "^7"
   },
   "authors": [
