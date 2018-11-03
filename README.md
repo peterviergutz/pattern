@@ -2,7 +2,7 @@
 
 Useful to extract variables from a filename following a naming convention or parsing values from a SQL string. 
 
-Adapted from [botmans](https://github.com/botman/botman)'s way of hearing commands. 
+Adapted from [botman](https://github.com/botman/botman)'s way of hearing commands. 
 
 ## Installation
 
