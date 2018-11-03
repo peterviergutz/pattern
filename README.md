@@ -1,8 +1,8 @@
 # Pattern
 
-A simple library to parse placeholders in a string to an array of named values. Useful to extract variables from a filename following a naming convention or parsing values from a SQL string. 
+Useful to extract variables from a filename following a naming convention or parsing values from a SQL string. 
 
-Adapted from Botman's way of hearing commands. 
+Adapted from [botmans](https://github.com/botman/botman)'s way of hearing commands. 
 
 ## Installation
 
